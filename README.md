@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavan Nayak</h1>
+<h1 align="center">Hi 👋, I'm Pavan Nayak </h1>
 
 
 # 💫 About Me:
