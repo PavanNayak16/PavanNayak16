@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Nayak </h1>
 
-
-# 💫 About Me:
-🔭 I’m currently working on: Building Full-Stack Applications<br>​👯 I’m looking to collaborate on: Open source Python projects<br>​🤝 I’m looking for help with: DevSecOps & Cybersecurity tools<br>​🌱 I’m currently learning: Python & Cloud Security<br>​💬 Ask me about: Python programming<br>​⚡ Fun fact: I build secure applications, one commit at a time! 🔒
-
+BCA Student | Aspiring Full Stack Developer | 
+Learning Web Development & Programming 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavannayak_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-nayak-a34574372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavannayak1977@gmail.com) 
