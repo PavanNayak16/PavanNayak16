@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan Nayak</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="PavanNayak16" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on: Building Full-Stack Applications<br>​👯 I’m looking to collaborate on: Open source Python projects<br>​🤝 I’m looking for help with: DevSecOps & Cybersecurity tools<br>​🌱 I’m currently learning: Python & Cloud Security<br>​💬 Ask me about: Python programming<br>​⚡ Fun fact: I build secure applications, one commit at a time! 🔒
