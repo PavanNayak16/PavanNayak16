@@ -3,8 +3,6 @@
 BCA Student | Aspiring Full Stack Developer | 
 Learning Web Development & Programming 🚀
 
-[![](https://komarev.com/ghpvc/?username=PavanNayak16&icon=5&color=1)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavannayak_16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-nayak-a34574372) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavannayak1977@gmail.com) 
