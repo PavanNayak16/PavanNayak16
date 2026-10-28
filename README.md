@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Nayak </h1>
 
-BCA Student | Softwere engineer | Learning Backend Development & Programming 🚀
+BCA Student | Software Engineer | Learning Backend Development & Programming 🚀
 
 
 ## 🌐 Socials:
