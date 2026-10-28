@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Nayak </h1>
 
-BCA Student | Aspiring Full Stack Developer | 
-Learning Web Development & Programming 🚀
+BCA Student | Softwere engineer | Learning Backend Development & Programming 🚀
 
 
 ## 🌐 Socials:
